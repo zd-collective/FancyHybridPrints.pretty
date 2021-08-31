@@ -9,7 +9,7 @@ Fancy Hybrid Footprint
 Traditional Hybrid Footprint
 
 ## Credits
-- Engicoder - creating the footprints
+- [ojthetiny](https://github.com/ojthetiny) - creating the footprints
 - [Lfgberg](https://lfgberg.org) - Silk Versions
 
 ## License
