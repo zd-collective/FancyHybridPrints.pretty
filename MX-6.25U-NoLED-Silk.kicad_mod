@@ -1,4 +1,4 @@
-(footprint "MX-6.25U-NoLED" (version 20210824) (generator pcbnew) (layer "F.Cu")
+(footprint "MX-6.25U-NoLED-Silk" (version 20210824) (generator pcbnew) (layer "F.Cu")
   (tedit 613B6F0B)
   (fp_text reference "REF**" (at 0 6.604) (layer "Dwgs.User")
     (effects (font (size 1 1) (thickness 0.15)))
